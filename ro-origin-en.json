@@ -522,7 +522,14 @@
   "#30618272": "<color=#51BE91FF>Healing Effect+4%</color>\nNext Lv: Healing Effect+8%",
 
 
-
+  "--day name--": "",
+  "#4E00": "Monday",
+  "#4E8C": "Tuesday",
+  "#4E09": "Wednesday",
+  "#56DB": "Thursday",
+  "#4E94": "Friday",
+  "#516D": "Saturday",
+  "#65E5": "Sunday",
 
 
 
